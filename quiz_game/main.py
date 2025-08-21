@@ -91,4 +91,4 @@ else:
     print("Yahh...maaf jawabanmu salah :( yang benar adalah keyboard")
     
 print("Skor kamu adalah " + str(score) + " dari jawaban yang benar!!^_____^")
-print("Skor kamu adalah " + str((score / 4) * 100) +  "%.")
+print("Skor kamu adalah " + str((score) * 100) +  "%.")
